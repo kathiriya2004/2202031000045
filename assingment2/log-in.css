@@ -1,0 +1,451 @@
+.log-in-item {
+  top: 150px;
+  background-color: var(--color-gainsboro-100);
+  height: 700px;
+}
+.footer-child2,
+.image-24-icon,
+.log-in-item {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+.image-24-icon {
+  top: 150px;
+  height: 700px;
+  object-fit: cover;
+}
+.footer-child2 {
+  top: 0;
+  background-color: var(--color-black);
+  height: 426px;
+}
+.newsletter2 {
+  position: absolute;
+  top: 116px;
+  left: 1305px;
+  font-size: var(--font-size-xl);
+}
+.untitled-1-1-icon2 {
+  position: absolute;
+  top: 79px;
+  left: 300px;
+  width: 157px;
+  height: 60px;
+  object-fit: cover;
+}
+.capitalize-on-low4 {
+  position: absolute;
+  top: 169px;
+  left: 300px;
+  display: inline-block;
+  width: 229px;
+  height: 82px;
+}
+.usefull-links2 {
+  position: absolute;
+  top: 116px;
+  left: 635px;
+  font-size: var(--font-size-xl);
+}
+.home5 {
+  margin: 0;
+}
+.home-about-us-container2 {
+  position: absolute;
+  top: 169px;
+  left: 635px;
+  display: inline-block;
+  width: 164px;
+  height: 148px;
+}
+.our-services3 {
+  position: absolute;
+  top: 116px;
+  left: 970px;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.performance-upgrade-transmissi-container2 {
+  position: absolute;
+  top: 169px;
+  left: 970px;
+  display: inline-block;
+  width: 181px;
+  height: 157px;
+}
+.footer-child3,
+.get-latest-updates2 {
+  position: absolute;
+  top: 149px;
+  left: 1305px;
+}
+.footer-child3 {
+  top: 188px;
+  border-radius: var(--br-10xs);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 315px;
+  height: 40px;
+}
+.enter-your-email2,
+.footer2 {
+  position: absolute;
+  top: 200px;
+  left: 1315px;
+}
+.footer2 {
+  top: 2202px;
+  left: 0;
+  width: 1920px;
+  height: 426px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.vector-icon19,
+.vector-icon20,
+.vector-icon21 {
+  position: absolute;
+  height: 0.7%;
+  width: 0.83%;
+  top: 88.2%;
+  right: 79.9%;
+  bottom: 11.1%;
+  left: 19.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon20,
+.vector-icon21 {
+  height: 0.92%;
+  width: 0.63%;
+  top: 88.11%;
+  right: 83.75%;
+  bottom: 10.98%;
+  left: 15.63%;
+}
+.vector-icon21 {
+  height: 0.72%;
+  width: 0.94%;
+  top: 88.2%;
+  right: 81.77%;
+  bottom: 11.09%;
+  left: 17.29%;
+}
+.nevbar-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1920px;
+  height: 50px;
+}
+.vector-icon22 {
+  position: absolute;
+  height: 40.8%;
+  width: 0.83%;
+  top: 43.4%;
+  right: 15.63%;
+  bottom: 15.8%;
+  left: 83.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2,
+.shubhamkathiriyagmailcom {
+  position: absolute;
+  top: 17px;
+  left: 324px;
+}
+.shubhamkathiriyagmailcom {
+  left: 492px;
+}
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  height: 53.2%;
+  width: 0.63%;
+  top: 38.2%;
+  right: 19.48%;
+  bottom: 8.6%;
+  left: 79.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  height: 41.4%;
+  width: 0.94%;
+  top: 43.4%;
+  right: 17.5%;
+  bottom: 15.2%;
+  left: 81.56%;
+}
+.vector-icon25,
+.vector-icon26 {
+  height: 46%;
+  width: 0.73%;
+  top: 40.8%;
+  right: 83.65%;
+  bottom: 13.2%;
+  left: 15.63%;
+}
+.vector-icon26 {
+  height: 38.2%;
+  width: 0.94%;
+  top: 43.4%;
+  right: 74.9%;
+  bottom: 18.4%;
+  left: 24.17%;
+}
+.nevbar2 {
+  width: 1920px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.group-child10,
+.hedar-inner,
+.nevbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.hedar-inner {
+  background-color: var(--color-cornflowerblue);
+  width: 1920px;
+  height: 100px;
+}
+.group-child10 {
+  border: 5px solid var(--color-red);
+  box-sizing: border-box;
+  width: 203px;
+  height: 60px;
+}
+.login2 {
+  position: absolute;
+  top: 18px;
+  left: 70px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 19px;
+  left: 1666px;
+  width: 203px;
+  height: 60px;
+}
+.book-now3 {
+  position: absolute;
+  top: 18px;
+  left: 50px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 20px;
+  left: 1417px;
+  width: 203px;
+  height: 60px;
+  cursor: pointer;
+  color: var(--color-darkred);
+}
+.untitled-1-2-icon1 {
+  position: absolute;
+  top: 20px;
+  left: 300px;
+  width: 157px;
+  height: 60px;
+  object-fit: cover;
+}
+.about-us11,
+.home6,
+.services2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  cursor: pointer;
+}
+.about-us11,
+.services2 {
+  left: 87px;
+}
+.services2 {
+  left: 212px;
+}
+.pages2 {
+  left: 333px;
+  cursor: pointer;
+}
+.blog3,
+.contact-us7,
+.pages2 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.blog3 {
+  left: 425px;
+  cursor: pointer;
+}
+.contact-us7 {
+  left: 506px;
+  color: var(--color-red);
+}
+.home-container {
+  position: absolute;
+  top: 38px;
+  left: 647px;
+  width: 626px;
+  height: 23px;
+  color: var(--color-white);
+}
+.hedar2,
+.log-in-inner {
+  position: absolute;
+  width: 1920px;
+}
+.hedar2 {
+  top: 50px;
+  left: 0;
+  height: 100px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red);
+}
+.log-in-inner {
+  top: 150px;
+  left: -10px;
+  background-color: var(--color-gray-200);
+  height: 700px;
+}
+.login-now {
+  position: absolute;
+  top: 468px;
+  left: 799px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-lora);
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.log-in-child1,
+.log-in-child2 {
+  position: absolute;
+  top: 1354px;
+  left: 55px;
+  background-color: var(--color-gainsboro-100);
+  width: 662px;
+  height: 101px;
+}
+.log-in-child2 {
+  top: 1593px;
+}
+.password {
+  position: absolute;
+  top: 1619px;
+  left: 93px;
+}
+.group-child12,
+.log-in-child3 {
+  position: absolute;
+  top: 1354px;
+  left: 1173px;
+  background-color: var(--color-gainsboro-100);
+  width: 662px;
+  height: 101px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+}
+.conform-password {
+  position: absolute;
+  top: 26px;
+  left: 19px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 1730px;
+  left: 1173px;
+  width: 662px;
+  height: 101px;
+}
+.email-id,
+.username {
+  position: absolute;
+  top: 1380px;
+  left: 1193px;
+}
+.username {
+  left: 86px;
+}
+.password-parent,
+.password1 {
+  position: absolute;
+  top: 17px;
+  left: 19px;
+}
+.password-parent {
+  top: 1542px;
+  left: 1173px;
+  width: 662px;
+  height: 101px;
+}
+.log-in-child4,
+.log-in-child5 {
+  position: absolute;
+  top: 1887px;
+  left: 200px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 303px;
+  height: 92px;
+}
+.log-in-child5 {
+  top: 1953px;
+  left: 1354px;
+}
+.login3,
+.submit {
+  position: absolute;
+  top: 1975px;
+  left: 1463px;
+  font-size: var(--font-size-21xl);
+}
+.submit {
+  top: 1914px;
+  left: 284px;
+}
+.line-icon {
+  position: absolute;
+  top: 1002px;
+  left: 910px;
+  width: 10px;
+  height: 1043px;
+  object-fit: contain;
+}
+.login4,
+.sing-in {
+  position: absolute;
+  top: 1075px;
+  left: 250px;
+  font-size: var(--font-size-77xl);
+}
+.sing-in {
+  left: 1219px;
+}
+.log-in2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2628px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
